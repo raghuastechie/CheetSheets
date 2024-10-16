@@ -53,4 +53,4 @@ const getL = async (line) => {
   }
 }
 
-getL(4);
+getL(6);
